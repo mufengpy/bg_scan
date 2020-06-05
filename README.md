@@ -29,4 +29,4 @@ python run.py
 
 
 
-<img src="media/images/image-20200605171502840.png" alt="image-20200605171502840" style="zoom: 50%;" />
+<img src="https://github.com/ecithy/bg_scan/blob/master/media/images/image-20200605171502840.png" alt="image-20200605171502840" style="zoom: 50%;" />
