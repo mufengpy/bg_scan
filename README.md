@@ -1,6 +1,6 @@
 # 御剑2020 
 ![](https://img.shields.io/badge/PoweredBy-mufeng-green.svg)
-[![](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/jhao104/proxy_pool)
+[![](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/jhao104/proxy_pool)
 
 ### 介绍
 
