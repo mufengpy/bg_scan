@@ -1,11 +1,12 @@
 # 御剑2020 
 ![](https://img.shields.io/badge/PoweredBy-mufeng-green.svg)
+[![](https://img.shields.io/badge/language-Python-green.svg)](https://github.com/jhao104/proxy_pool)
 
 ### 介绍
 
 - #### 后台扫描工具
 
-- #### 支持版本: 3.x
+- #### 支持版本: Python 3.x
 
 ### 下载安装
 
