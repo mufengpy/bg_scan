@@ -1,0 +1,2 @@
+1.运行proxy各个子目录下的xxx.py文件，可爬取ip到本地xxx.json文件
+2. 运行proxy/ipFilter.py文件可得到可用ip
